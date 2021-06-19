@@ -1,0 +1,12 @@
+C:\Users\123\Desktop\vb\Final\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+C:\Users\123\Desktop\vb\Final\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+C:\Users\123\Desktop\vb\Final\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+C:\Users\123\Desktop\vb\Final\RockPaperScissors\bin\Debug\RockPaperScissors.xml
+C:\Users\123\Desktop\vb\Final\RockPaperScissors\obj\Debug\RockPaperScissors.Form1.resources
+C:\Users\123\Desktop\vb\Final\RockPaperScissors\obj\Debug\RockPaperScissors.Resources.resources
+C:\Users\123\Desktop\vb\Final\RockPaperScissors\obj\Debug\RockPaperScissors.vbproj.GenerateResource.cache
+C:\Users\123\Desktop\vb\Final\RockPaperScissors\obj\Debug\RockPaperScissors.vbproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\vb\Final\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+C:\Users\123\Desktop\vb\Final\RockPaperScissors\obj\Debug\RockPaperScissors.xml
+C:\Users\123\Desktop\vb\Final\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
+C:\Users\123\Desktop\vb\Final\RockPaperScissors\obj\Debug\RockPaperScissors.vbprojAssemblyReference.cache
